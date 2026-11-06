@@ -28,6 +28,12 @@ run. Twelve files, real frameworks, no fluff.
 
 > ⭐ **If this saves you a weekend of brand-strategy guesswork, star the repo** — it's the only signal that tells me to keep shipping updates.
 
+## Quick start
+
+```bash
+git clone https://github.com/shauryalowkeygotaura/brand-launchpad ~/.claude/skills/brand-launchpad
+```
+
 ## See it run
 
 <!-- TO ADD THE REAL DEMO: record a run, save it as assets/demo.png (or demo.gif),
